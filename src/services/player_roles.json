@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "WK",
+    "max_player": 4,
+    "min_player": 1
+  },
+  {
+    "id": 2,
+    "name": "ALLR",
+    "max_player": 5,
+    "min_player": 1
+  },
+  {
+    "id": 3,
+    "name": "BATS",
+    "max_player": 5,
+    "min_player": 3
+  },
+  {
+    "id": 4,
+    "name": "BWL",
+    "max_player": 5,
+    "min_player": 3
+  }
+]

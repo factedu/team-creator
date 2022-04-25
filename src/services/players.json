@@ -1,0 +1,314 @@
+[
+  {
+    "player_id": 17,
+    "player_name": "Ravindra Jadeja",
+    "player_credits": 9,
+    "team_id": 1,
+    "player_role_id": 2,
+    "player_role": "ALLR"
+  },
+  {
+    "player_id": 697,
+    "player_name": "Ishant Sharma",
+    "player_credits": 8.5,
+    "team_id": 1,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 18,
+    "player_name": "Virat Kohli",
+    "player_credits": 9.5,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 803,
+    "player_name": "Ravichandran Ashwin",
+    "player_credits": 9,
+    "team_id": 1,
+    "player_role_id": 2,
+    "player_role": "ALLR"
+  },
+  {
+    "player_id": 781,
+    "player_name": "Ajinkya Rahane",
+    "player_credits": 8.5,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 673,
+    "player_name": "Wriddhiman Saha",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 1,
+    "player_role": "WK"
+  },
+  {
+    "player_id": 1518,
+    "player_name": "Cheteshwar Pujara",
+    "player_credits": 9,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 24,
+    "player_name": "Rohit Sharma",
+    "player_credits": 9.5,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 804,
+    "player_name": "Mayank Agarwal",
+    "player_credits": 8.5,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 25,
+    "player_name": "KL Rahul",
+    "player_credits": 9,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 705,
+    "player_name": "Hanuma Vihari",
+    "player_credits": 8.5,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 637,
+    "player_name": "Shardul Thakur",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 28,
+    "player_name": "Mohammed Shami",
+    "player_credits": 8.5,
+    "team_id": 1,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 708,
+    "player_name": "Axar Patel",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 2,
+    "player_role": "ALLR"
+  },
+  {
+    "player_id": 30,
+    "player_name": "Jasprit Bumrah",
+    "player_credits": 9,
+    "team_id": 1,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 10655,
+    "player_name": "Abhimanyu Easwaran",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 617,
+    "player_name": "Umesh Yadav",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 735,
+    "player_name": "Suryakumar Yadav",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 31,
+    "player_name": "Rishabh Pant",
+    "player_credits": 9,
+    "team_id": 1,
+    "player_role_id": 1,
+    "player_role": "WK"
+  },
+  {
+    "player_id": 715,
+    "player_name": "Prithvi Shaw",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 619,
+    "player_name": "Mohammed Siraj",
+    "player_credits": 8.5,
+    "team_id": 1,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 668,
+    "player_name": "Prasidh Krishna",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 10672,
+    "player_name": "Arzan Rohinton Nagwaswalla",
+    "player_credits": 8,
+    "team_id": 1,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 385,
+    "player_name": "Dawid Malan",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 675,
+    "player_name": "Jonny Bairstow",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 1,
+    "player_role": "WK"
+  },
+  {
+    "player_id": 1162,
+    "player_name": "Joe Root",
+    "player_credits": 10,
+    "team_id": 31,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 783,
+    "player_name": "Jos Buttler",
+    "player_credits": 9,
+    "team_id": 31,
+    "player_role_id": 1,
+    "player_role": "WK"
+  },
+  {
+    "player_id": 1148,
+    "player_name": "Rory Burns",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 1022,
+    "player_name": "Craig Overton",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 1027,
+    "player_name": "Oliver Robinson",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 1090,
+    "player_name": "Haseeb Hameed",
+    "player_credits": 8,
+    "team_id": 31,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 1337,
+    "player_name": "Dan Lawrence",
+    "player_credits": 8,
+    "team_id": 31,
+    "player_role_id": 2,
+    "player_role": "ALLR"
+  },
+  {
+    "player_id": 1093,
+    "player_name": "Saqib Mahmood",
+    "player_credits": 8,
+    "team_id": 31,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 812,
+    "player_name": "Sam Curran",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 2,
+    "player_role": "ALLR"
+  },
+  {
+    "player_id": 1096,
+    "player_name": "James Anderson",
+    "player_credits": 9,
+    "team_id": 31,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 616,
+    "player_name": "Moeen Ali",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 2,
+    "player_role": "ALLR"
+  },
+  {
+    "player_id": 1152,
+    "player_name": "Ollie Pope",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 3,
+    "player_role": "BATS"
+  },
+  {
+    "player_id": 1163,
+    "player_name": "Mark Wood",
+    "player_credits": 8.5,
+    "team_id": 31,
+    "player_role_id": 4,
+    "player_role": "BWL"
+  },
+  {
+    "player_id": 973,
+    "player_name": "Chris Woakes",
+    "player_credits": 9,
+    "team_id": 31,
+    "player_role_id": 2,
+    "player_role": "ALLR"
+  }
+]
